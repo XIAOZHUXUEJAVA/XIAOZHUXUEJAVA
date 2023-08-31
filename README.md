@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I am currently interning and looking for a suitable job.
+- 📫 How to reach me: xiaozhuzhulzq@163.com
+- 🔗 My personal blog: https://xxxdgblog.netlify.app/blog
+  
+
 <!--
 **XIAOZHUXUEJAVA/XIAOZHUXUEJAVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
