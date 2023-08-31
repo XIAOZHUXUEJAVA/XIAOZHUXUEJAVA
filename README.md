@@ -1,8 +1,10 @@
-### Hi Friends 👋
+### Hi Friends 🥳
 
 - 🔭 I am currently interning and looking for a suitable job.
 - 📫 How to reach me: xiaozhuzhulzq@163.com
 - 🔗 My personal blog: https://xxxdgblog.netlify.app/blog
+- 🤖 My personal ChatGPT bot: https://chat-xiaozhu.netlify.app/zh
+- 🌻 Longing for sunshine and cheerfulness.
   
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=XIAOZHUXUEJAVA&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&hide=prs" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XIAOZHUXUEJAVA&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn&hide=html" />
@@ -20,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💾 EOF
