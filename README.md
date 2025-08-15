@@ -5,6 +5,8 @@
 - 🔗 My personal blog: https://piggyblog.xyz/
 - 🤖 Simple Game Ranking: https://topgameranking.netlify.app/
 - 🌻 Longing for sunshine and cheerfulness.
+- ⚡ I like to study AI-related tools.
+
 
   
 
