@@ -4,6 +4,7 @@
 - 📫 How to reach me: xiaozhuzhulzq@163.com
 - 🔗 My personal blog: https://piggyblog.xyz/
 - 🤖 Simple Game Ranking: https://topgameranking.netlify.app/
+- 🌱 Simple Cover Image Maker: https://coverimagemaker.netlify.app/
 - 🌻 Longing for sunshine and cheerfulness.
 - ⚡ I like to play AI-related tools.
 
