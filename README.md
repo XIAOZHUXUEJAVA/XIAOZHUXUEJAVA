@@ -2,9 +2,11 @@
 
 - 🔭 I am currently looking for a suitable job.
 - 📫 How to reach me: xiaozhuzhulzq@163.com
-- 🔗 My personal blog: https://piggyblog.xyz/
-- 🤖 Simple Game Ranking: https://topgameranking.netlify.app/
+- 🔗 My Personal Blog: https://piggyblog.xyz/
+- 🤖 Simple Game Ranking With NES Style: https://topgameranking.netlify.app/
 - 🌱 Simple Cover Image Maker: https://coverimagemaker.netlify.app/
+- 💬 Simple Code Share Tool: https://magiccodeshare.netlify.app/
+- 😄 Simple Game Ranking With Magic UI Style: https://magicgameranking.netlify.app/
 - ⚡ I like to play AI-related tools.
 - 🌻 Longing for sunshine and cheerfulness.
 
