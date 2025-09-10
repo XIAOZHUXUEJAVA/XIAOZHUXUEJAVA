@@ -7,8 +7,9 @@
 - 🌱 Simple Cover Image Maker: https://coverimagemaker.netlify.app/
 - 💬 Simple Code Share Tool: https://magiccodeshare.netlify.app/
 - 😄 Simple Game Ranking With Magic UI Style: https://magicgameranking.netlify.app/
-- ⚡ I like to play AI-related tools.
 - 🌻 My Personal Portfolio: https://piggyportfolio.netlify.app/.
+- ⚡ I like to play AI-related tools.
+
 
 
 
