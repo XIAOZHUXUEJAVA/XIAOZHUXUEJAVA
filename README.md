@@ -15,7 +15,7 @@
 
   
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=XIAOZHUXUEJAVA&hide_title=true&hide_border=true&show_icons=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&hide=prs" /><img align="" height="121px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XIAOZHUXUEJAVA&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn&hide=html" />
+<img align="" height="137px" src="https://xiaozhu-github-readme-stats.vercel.app/api?username=XIAOZHUXUEJAVA&hide_title=true&hide_border=true&show_icons=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&hide=prs" /><img align="" height="120px" src="https://xiaozhu-github-readme-stats.vercel.app/api/top-langs/?username=XIAOZHUXUEJAVA&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn&hide=html" />
 <!--
 **XIAOZHUXUEJAVA/XIAOZHUXUEJAVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
