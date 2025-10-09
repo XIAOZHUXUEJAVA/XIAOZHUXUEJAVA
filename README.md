@@ -15,7 +15,7 @@
 - 🖼️ [Simple Cover Image Maker](https://coverimagemaker.netlify.app/)  
 - 💬 [Simple Code Share Tool](https://magiccodeshare.netlify.app/)  
 - 🖥️ [Local Server Monitor](https://github.com/XIAOZHUXUEJAVA/go-react-monitor-compose)  
-- 📦 [Manage Starter Template](https://github.com/XIAOZHUXUEJAVA/go-manage-starter)
+- 📦 [Go React Manage System Starter Template](https://github.com/XIAOZHUXUEJAVA/go-manage-starter)
 
 ---
 
