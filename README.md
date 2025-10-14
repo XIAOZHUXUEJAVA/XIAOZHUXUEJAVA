@@ -18,7 +18,7 @@
 - 🖼️ [封面图片生成器](https://coverimagemaker.netlify.app/)  
 - 💬 [在线代码分享工具](https://magiccodeshare.netlify.app/)  
 - 🖥️ [本地服务器监控面板](https://github.com/XIAOZHUXUEJAVA/go-react-monitor-compose)  
-- 📦 [Go + React 后台管理模板](https://github.com/XIAOZHUXUEJAVA/go-manage-starter)
+- 📦 [Go + React 后台管理模板](https://github.com/XIAOZHUXUEJAVA/go-react-admin)
 
 ---
 
