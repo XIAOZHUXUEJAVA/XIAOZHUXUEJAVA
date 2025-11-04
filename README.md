@@ -4,7 +4,6 @@
 <summary>🇨🇳 点击切换到中文</summary>
 
 ## 👨‍💻 关于我
-- 🔭 我目前正在寻找一份**合适的工作**
 - 📫 联系我: **xiaozhuzhulzq@163.com**
 - 🌐 个人博客: [piggyblog.xyz](https://piggyblog.xyz/)
 - ⚡ 我喜欢探索和构建与 **AI** 相关的工具
@@ -36,7 +35,6 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently looking for a **suitable job**
 - 📫 Reach me at: **xiaozhuzhulzq@163.com**
 - 🌐 Personal Blog: [piggyblog.xyz](https://piggyblog.xyz/)
 - ⚡ I enjoy exploring and building with **AI-related tools**
