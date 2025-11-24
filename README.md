@@ -19,6 +19,7 @@
 - 🖥️ [本地服务器监控面板](https://github.com/XIAOZHUXUEJAVA/go-react-monitor-compose)  
 - 📦 [Go + React 后台管理模板](https://github.com/XIAOZHUXUEJAVA/go-react-admin)
 - 📚 [复刻BuildTimes](https://buildtime-next.netlify.app/)
+- 🤖 [Gemini 3 Pro复刻实验](https://spring-piggy-blog.netlify.app/)
 
 ---
 
@@ -51,6 +52,7 @@
 - 🖥️ [Local Server Monitor](https://github.com/XIAOZHUXUEJAVA/go-react-monitor-compose)  
 - 📦 [Go React Manage System Starter Template](https://github.com/XIAOZHUXUEJAVA/go-react-admin)
 - 📚 [BuildTimes Recreation](https://buildtime-next.netlify.app/)
+- 🤖 [Gemini 3 Pro Copy Test](https://spring-piggy-blog.netlify.app/)
 
 ---
 
