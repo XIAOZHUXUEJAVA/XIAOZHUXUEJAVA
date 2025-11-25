@@ -11,16 +11,15 @@
 ---
 
 ## 🚀 精选项目
-- 🌻 [个人作品集](https://piggyportfolio.netlify.app/)  
-- 🎮 [像素风游戏排行榜](https://topgameranking.netlify.app/)  
-- 🕹️ [魔法风格游戏排行榜](https://magicgameranking.netlify.app/)  
-- 🖼️ [封面图片生成器](https://coverimagemaker.netlify.app/)  
+- 🌻 [个人作品集](https://piggyportfolio.netlify.app/)
 - 💬 [在线代码分享工具](https://magiccodeshare.netlify.app/)  
 - 🖥️ [本地服务器监控面板](https://github.com/XIAOZHUXUEJAVA/go-react-monitor-compose)  
 - 📦 [Go + React 后台管理模板](https://github.com/XIAOZHUXUEJAVA/go-react-admin)
 - 📚 [复刻BuildTimes](https://buildtime-next.netlify.app/)
 - 🤖 [Gemini 3 Pro复刻实验](https://spring-piggy-blog.netlify.app/)
-
+- 🎮 [像素风游戏排行榜](https://topgameranking.netlify.app/)  
+- 🕹️ [魔法风格游戏排行榜](https://magicgameranking.netlify.app/)
+- 🖼️ [封面图片生成器](https://coverimagemaker.netlify.app/)  
 ---
 
 ## 📊 GitHub 统计
@@ -45,14 +44,14 @@
 
 ## 🚀 Featured Projects
 - 🌻 [Personal Portfolio](https://piggyportfolio.netlify.app/)  
-- 🎮 [NES Style Game Ranking](https://topgameranking.netlify.app/)  
-- 🕹️ [Magic UI Style Game Ranking](https://magicgameranking.netlify.app/)  
-- 🖼️ [Simple Cover Image Maker](https://coverimagemaker.netlify.app/)  
 - 💬 [Simple Code Share Tool](https://magiccodeshare.netlify.app/)  
 - 🖥️ [Local Server Monitor](https://github.com/XIAOZHUXUEJAVA/go-react-monitor-compose)  
 - 📦 [Go React Manage System Starter Template](https://github.com/XIAOZHUXUEJAVA/go-react-admin)
 - 📚 [BuildTimes Recreation](https://buildtime-next.netlify.app/)
 - 🤖 [Gemini 3 Pro Copy Test](https://spring-piggy-blog.netlify.app/)
+- 🎮 [NES Style Game Ranking](https://topgameranking.netlify.app/)  
+- 🕹️ [Magic UI Style Game Ranking](https://magicgameranking.netlify.app/)  
+- 🖼️ [Simple Cover Image Maker](https://coverimagemaker.netlify.app/)  
 
 ---
 
