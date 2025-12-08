@@ -19,7 +19,8 @@
 - 🤖 [Gemini 3 Pro复刻实验](https://spring-piggy-blog.netlify.app/)
 - 🎮 [像素风游戏排行榜](https://topgameranking.netlify.app/)  
 - 🕹️ [魔法风格游戏排行榜](https://magicgameranking.netlify.app/)
-- 🖼️ [封面图片生成器](https://coverimagemaker.netlify.app/)  
+- 🖼️ [封面图片生成器](https://coverimagemaker.netlify.app/)
+- 📒 [手绘风笔记](https://hand-draw-notebook.netlify.app/)
 ---
 
 ## 📊 GitHub 统计
@@ -51,7 +52,8 @@
 - 🤖 [Gemini 3 Pro Copy Test](https://spring-piggy-blog.netlify.app/)
 - 🎮 [NES Style Game Ranking](https://topgameranking.netlify.app/)  
 - 🕹️ [Magic UI Style Game Ranking](https://magicgameranking.netlify.app/)  
-- 🖼️ [Simple Cover Image Maker](https://coverimagemaker.netlify.app/)  
+- 🖼️ [Simple Cover Image Maker](https://coverimagemaker.netlify.app/)
+- 📒 [Hand Draw NoteBook](https://hand-draw-notebook.netlify.app/)
 
 ---
 
