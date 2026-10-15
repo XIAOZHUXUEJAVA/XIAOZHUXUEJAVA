@@ -5,7 +5,7 @@
 
 ## 👨‍💻 关于我
 - 📫 联系我: **xiaozhuzhulzq@163.com**
-- 🌐 个人博客: [piggyblog.xyz](https://piggyblog.xyz/)
+- 🌐 个人博客: **https://piggy-blog.vercel.app/**
 - ⚡ 我喜欢探索和构建与 **AI** 相关的工具
 
 ---
