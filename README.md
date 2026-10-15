@@ -38,7 +38,7 @@
 
 ## 👨‍💻 About Me
 - 📫 Reach me at: **xiaozhuzhulzq@163.com**
-- 🌐 Personal Blog: [piggyblog.xyz](https://piggyblog.xyz/)
+- 🌐 Personal Blog: **https://piggy-blog.vercel.app/**
 - ⚡ I enjoy exploring and building with **AI-related tools**
 
 ---
